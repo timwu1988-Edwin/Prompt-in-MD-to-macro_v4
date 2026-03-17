@@ -1,0 +1,5 @@
+{
+  "name": "提示詞md to 網頁Macro_V4",
+  "description": "A specialized tool for Medical Monitors to automate prompt injection into NotebookLM and refine workflow prompts using Gemini AI.",
+  "requestFramePermissions": []
+}
